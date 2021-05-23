@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 👨‍💻 My website [http://themixhelp.pl](http://themixhelp.pl)
+- 👨‍💻 My website [http://themixhelp.ovh](http://themixhelp.ovh)
 
 - 💬 Ask me about **everything!**
 
