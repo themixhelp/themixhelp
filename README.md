@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm themixhelp</h1>
-<h3 align="center">beginner programmer looking for a path in life :)</h3>
+# hey 👋, my name is mikołaj
+i'm beginner frontend developer
 
-- 🌱 I’m currently learning **Flask**
-
-- 👨‍💻 My website [http://themixhelp.ovh](http://themixhelp.ovh)
-
-- 💬 Ask me about **everything!**
-
-- 📫 Contact me **themixhelp@outlook.com**
-
+- 🌱 currently i’m learning: **vue.js**
+- 👨‍💻 my website: [http://themixhelp.ovh](http://themixhelp.ovh)
+- 📫 contact me: **themixhelp@outlook.com**
