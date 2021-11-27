@@ -13,7 +13,7 @@ const tools = ['Webstorm', 'Visual Studio Code', 'Spotify']
 
 I enjoy learning about new **technology**.
 ```javascript
-const technologies = ['Git', 'Prettier', 'SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
+const technologies = ['SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
 ```
 
 I own a pretty cool **laptop**.
