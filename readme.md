@@ -28,7 +28,7 @@ const laptop = {
 If you would like to **contact me** there are many options!
 ```javascript
 const contact = {
-    email: 'themixhelp@outlook.com' or 'main@themixhelp.ovh',
+    email: ['themixhelp@outlook.com', 'main@themixhelp.ovh'],
     discord: 'themixhelp#3576'
 }
 ```
