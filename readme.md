@@ -8,7 +8,7 @@ I create **websites** and **web applications**. If you need help I will be happy
 const code = ['HTML', 'CSS', 'JS']
 ```
 ```javascript
-const tools = ['Webstorm', 'Visual Studio Code', 'Spotify']
+const tools = ['Webstorm', 'Visual Studio Code', 'iTerm', 'Spotify']
 ```
 
 I enjoy learning about new **technology**.
@@ -19,9 +19,9 @@ const technologies = ['SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
 I own a pretty cool **laptop**.
 ```javascript
 const laptop = {
-    name: 'Dell Inspirion 15',
-    parameters: ['8 GB / 128 GB', 'Intel i7 4510U', 'NVIDIA GeForce 840M'],
-    os: 'Manjaro Linux, Gnome'
+    name: 'Macbook Air 2020',
+    parameters: ['16 GB / 512 GB', 'Apple M1'],
+    os: 'macOS, Monterey'
 }
 ```
 
