@@ -8,12 +8,12 @@ I create **websites** and **web applications**. If you need help I will be happy
 const code = ['HTML', 'CSS', 'JS']
 ```
 ```javascript
-const tools = ['Webstorm', 'Visual Studio Code', 'iTerm', 'Spotify']
+const tools = ['Webstorm', 'Visual Studio Code', 'iTerm']
 ```
 
 I enjoy learning about new **technology**.
 ```javascript
-const technologies = ['SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
+let technologies = ['SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
 ```
 
 I own a pretty cool **laptop**.
