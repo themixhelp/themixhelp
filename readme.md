@@ -8,12 +8,12 @@ I create **websites** and **web applications**. If you need help I will be happy
 const code = ['HTML', 'CSS', 'JS']
 ```
 ```javascript
-const tools = ['Webstorm', 'Visual Studio Code', 'iTerm']
+const tools = ['Webstorm', 'Visual Studio Code']
 ```
 
 I enjoy learning about new **technology**.
 ```javascript
-let technologies = ['SCSS', 'Tailwind.CSS', 'Yarn', 'Parcel', 'Vue.JS']
+let technologies = ['Vue', 'Vite', 'Parcel', 'Pug', 'SCSS', 'Tailwind']
 ```
 
 I own a pretty cool **laptop**.
@@ -29,7 +29,8 @@ If you would like to **contact me** there are many options!
 ```javascript
 const contact = {
     email: ['themixhelp@outlook.com', 'main@themixhelp.ovh'],
-    discord: 'themixhelp#3576'
+    discord: 'themixhelp#3576',
+    twitter: 'themixhelp'
 }
 ```
 
