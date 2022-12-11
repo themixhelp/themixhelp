@@ -21,7 +21,7 @@ I own a pretty cool **laptop**.
 const laptop = {
     name: 'Macbook Air 2020',
     parameters: ['16 GB / 512 GB', 'Apple M1'],
-    os: 'macOS, Monterey'
+    os: 'macOS, Ventura'
 }
 ```
 
