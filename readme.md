@@ -18,7 +18,7 @@ let technologies = ['Vue', 'Vite', 'Pug', 'SCSS', 'Tailwind', 'Axios', 'Strapi']
 
 I own a pretty cool **laptop**.
 ```javascript
-const laptop = {
+const macbook = {
     name: 'Macbook Air 2020',
     parameters: ['16 GB / 512 GB', 'Apple M1'],
     os: 'macOS, Ventura'
