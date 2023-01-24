@@ -16,7 +16,7 @@ I enjoy learning about new **technology**.
 let technologies = ['Vue', 'Vite', 'Pug', 'SCSS', 'Tailwind', 'Axios', 'Strapi']
 ```
 
-I own a pretty cool **laptop**.
+I own a pretty cool **macbook**.
 ```javascript
 const macbook = {
     name: 'Macbook Air 2020',
