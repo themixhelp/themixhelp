@@ -1,6 +1,6 @@
 Hi, my name is Mikołaj. I love cats and **programming**. I am interested in **computer science**.
 ```javascript
-const goal = 'be a frontend developer.'
+const goal = 'be a commercial frontend developer.'
 ```
 
 I create **websites** and **web applications**. If you need help I will be happy to give it to you!
@@ -8,12 +8,12 @@ I create **websites** and **web applications**. If you need help I will be happy
 const code = ['HTML', 'CSS', 'JS']
 ```
 ```javascript
-const tools = ['Webstorm', 'Visual Studio Code', 'Postman', 'Termius']
+const tools = ['Webstorm', 'Visual Studio Code', 'Postman', 'Termius', 'Figma']
 ```
 
 I enjoy learning about new **technology**.
 ```javascript
-let technologies = ['Vue', 'Vite', 'Pug', 'SCSS', 'Tailwind', 'Axios', 'Strapi']
+let technologies = ['Vue', 'Vite', 'Parcel', 'Pug', 'SCSS', 'Tailwind', 'Axios', 'Strapi']
 ```
 
 I own a pretty cool **macbook**.
