@@ -1,6 +1,6 @@
 Hi, my name is Mikołaj. I love cats and **programming**. I am interested in **computer science**.
 ```javascript
-const goal = 'be a commercial frontend developer.'
+const goal = 'be a fully commercial frontend developer.'
 ```
 
 I create **websites** and **web applications**. If you need help I will be happy to give it to you!
