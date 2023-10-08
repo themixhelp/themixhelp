@@ -16,15 +16,6 @@ I enjoy learning about new **technology**.
 let technologies = ['Vue', 'Vite', 'Parcel', 'Pug', 'SCSS', 'Tailwind', 'Axios', 'Strapi']
 ```
 
-I own a pretty cool **macbook**.
-```javascript
-const macbook = {
-    name: 'Macbook Air 2020',
-    parameters: ['16 GB / 512 GB', 'Apple M1'],
-    os: 'macOS, Ventura'
-}
-```
-
 If you would like to **contact me** there are many options!
 ```javascript
 const contact = {
