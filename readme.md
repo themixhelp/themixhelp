@@ -8,7 +8,7 @@ I create **websites** and **web applications**. If you need help I will be happy
 const code = ['HTML', 'CSS', 'JS']
 ```
 ```javascript
-const tools = ['Webstorm', 'Visual Studio Code', 'Postman', 'Termius', 'Figma']
+const tools = ['Webstorm', 'Visual Studio Code', 'Warp', 'Figma']
 ```
 
 I enjoy learning about new **technology**.
